@@ -4,6 +4,7 @@
 
 |Member|Login|Hobbies|
 |---|---|---|
+|Pepe|psegura-/NotSirius|Having fun|
 |Bruno|Bazuara/Sultan|Breaking stuff|
 |Albert|adiaz-lo|Linux|
 |Abdel|M4ntr4r4m4/Ahammoud|making noise|
@@ -12,5 +13,9 @@
 |Miguel|mvillaes|hey!|
 |Jkutkut|jre-gonz|Generate code!|
 |Jaime|jlozano-|Electronicsss|
+|Cristina|Crisfern|Dancing|
+|Ivan|iagudo-d|Codecrafter|
+|Cristina|cjover-n|Doing git pull requests|
+|Roxy|esettes/iostancu|Don't forget to feed the kitty|
 
 If you want to become a part of this exclusive club, read the [contributing file](CONTRIBUTING.md)
